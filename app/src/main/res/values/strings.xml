@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ComisList</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_hero">Find manga</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">Back</string>
+</resources>
