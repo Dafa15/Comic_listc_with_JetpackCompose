@@ -1,4 +1,4 @@
-![Detail User](https://github.com/Dafa15/Comic_listc_with_JetpackCompose/assets/70470232/e68e4979-59cf-47ce-a745-03fa339c88ad)# Comic List with Compose
+# Comic List with Compose
 
 This is an app that show a list of comic with Jetpack Compose library for submission Jetpack Compose course
 
