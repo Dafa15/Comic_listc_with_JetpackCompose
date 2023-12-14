@@ -4,7 +4,8 @@ This is an app that show a list of comic with Jetpack Compose library for submis
 
 in this app the user can show a list of comic, add to favorite, detail of the comic.
 
-<img src="https://github.com/Dafa15/Comic_listc_with_JetpackCompose/raw/main/assets/70470232/badd8482-c1c7-4d51-b6d4-6020d1add59c.png" width="50" height="120"  alt="Comiclist1">
-<img src="https://github.com/Dafa15/Comic_listc_with_JetpackCompose/raw/main/assets/70470232/25639767-076f-48a6-bd37-3bd51bc58dd3.png" width="50" height="120" alt="Comiclist Favorite">
-<img src="https://github.com/Dafa15/Comic_listc_with_JetpackCompose/raw/main/assets/70470232/3e34a0e4-ef67-4110-851b-f19662fcc85b.png" width="50" height="120" alt="ComicList Detail">
-<img src="https://github.com/Dafa15/Comic_listc_with_JetpackCompose/raw/main/assets/70470232/76dcaf0b-d97e-4995-b7ca-4856a0e9dc71.png" width="50" height="120" alt="Comiclist Home">
+
+![Comiclist Home](https://github.com/Dafa15/Comic_listc_with_JetpackCompose/assets/70470232/9fb014aa-bd08-49ef-83e7-691dce99e132)
+![Comiclist1](https://github.com/Dafa15/Comic_listc_with_JetpackCompose/assets/70470232/189023b8-c701-47fb-b47e-40078ee9c0bd)
+![Comiclist Favorite](https://github.com/Dafa15/Comic_listc_with_JetpackCompose/assets/70470232/0d327cfe-b4aa-4aae-96d1-5d44e5638345)
+![ComicList Detail](https://github.com/Dafa15/Comic_listc_with_JetpackCompose/assets/70470232/d181686f-240b-43c7-92f5-e5541635bc10)
